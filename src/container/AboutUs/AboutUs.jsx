@@ -17,13 +17,13 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Welcome to our Restaurant!. At chef, we're more than just a place to
+          Welcome to our Restaurant!. At <b>Chef</b> , we're more than just a place to
           dine; we're a culinary destination, a gathering spot for friends and
           family, and a celebration of flavor. Nestled in the heart of Raipur,
           our restaurant is where exceptional food meets exceptional service in
           a welcoming atmosphere.
           <br />
-          Join us at Chef and discover why we're more than just a restaurant –
+          Join us at <b>Chef</b>  and discover why we're more than just a restaurant –
           we're a destination worth savoring.
         </p>
         <button type="button" className="custom__button">
@@ -39,9 +39,9 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Chef – A Journey of Culinary Excellence Our story begins
+        <b>Chef</b> – A Journey of Culinary Excellence Our story begins
           with a passion for cuisine and a dream to create a
-          dining experience unlike any other. Founded in 2020, Chef has since become a beloved fixture in the culinary landscape of
+          dining experience unlike any other. Founded in 2020, <b>Chef</b> has since become a beloved fixture in the culinary landscape of
           Raipur, known for our commitment to quality, innovation, and
           hospitality.
           <br />
@@ -52,7 +52,7 @@ const AboutUs = () => (
           capture the hearts of our guests.
           <br />
           Join us on this journey as we write the next chapter in the storied
-          history of Chef.
+          history of <b>Chef</b> .
         </p>
         <button type="button" className="custom__button">
           Know More
